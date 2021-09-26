@@ -1,0 +1,75 @@
+[
+    {
+        "key": "1",
+        "name": "Mark I",
+        "price": 36000,
+        "made": 2009,
+        "description": "The Mark I Armor was Tony Stark's first Iron Man suit, built to help him escape from forced captivity by the Ten Rings. The suit was crafted from the limited resources around him, including salvaged pieces of scrap metal and machine parts.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784303-9ec03083-fc69-43ef-84b2-a211ac765f10.png",
+        "shippingCost": 999.99
+    },
+    {
+        "key": "2",
+        "name": "Mark II",
+        "price": 100000,
+        "made": 2010,
+        "description": "The Mark II Armor was Tony Stark's second Iron Man suit, heavily refining the bulky and rudimentary design of the previous Mark I suit into a more articulated and sleek design. However, due to a dangerous icing problem that immobilized the suit at higher altitudes, Stark replaced the suit with the Mark III armor. The Mark II was later acquired by James Rhodes and repurposed into the War Machine Armor: Mark I.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784317-c5abbf0d-7162-4225-9a34-7020fab78710.png",
+        "shippingCost": 1999.69
+    },
+    {
+        "key": "3",
+        "name": "Mark III",
+        "price": 150000,
+        "made": 2011,
+        "description": "The Mark III Armor was Tony Stark's third Iron Man suit and an upgrade from the Mark II, improving on its previous flaws. It was the first suit to integrate an advanced on-board weapons system and was the first to adopt the classic red and gold color scheme.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784327-dbbf03c4-f4e8-4ee1-9950-c37a6c7af690.png",
+        "shippingCost": 2999.00
+    },
+    {
+        "key": "4",
+        "name": "Mark IV",
+        "price": 250000,
+        "made": 2013,
+        "description": "The Mark IV Armor was Tony Stark's fourth Iron Man suit and was built to replace the Mark III after it was heavily damaged in Stark's fight with Obadiah Stane. Because it was built to be a direct replacement, the Mark IV is very similar to the Mark III with only a few minor changes.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784343-febed0bc-9872-4a9c-92b9-50731027ac68.png",
+        "shippingCost": 4999.19
+    },
+    {
+        "key": "5",
+        "name": "Mark V",
+        "price": 360000,
+        "made": 2014,
+        "description": "The Mark V Armor, also known as the Suitcase Suit, was Tony Stark's fifth Iron Man suit. The first suit to specialize on portability and easy access, it was used by Stark during the Duel of Monaco, where it was damaged by Whiplash.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784362-f493464d-c80e-4af5-a3e2-25579d2db189.png",
+        "shippingCost": 6999.99
+    },
+    {
+        "key": "6",
+        "name": "Mark VI",
+        "price": 510000,
+        "made": 2015,
+        "description": "The Mark VI Armor was Tony Stark's sixth Iron Man suit and was built to replace the Mark IV after Stark created an improved Arc Reactor with a higher energy output using a new element. Notably, it was the first suit to have a triangular chest piece and the only classic (I-VII) to have one of that design.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784376-9a135c9e-a52b-4544-9fd1-0e16e332380c.png",
+        "shippingCost": 8999.50
+    },
+    {
+        "key": "7",
+        "name": "Mark VII",
+        "price": 780000,
+        "made": 2016,
+        "description": "The Mark VII Armor was Tony Stark's seventh Iron Man suit. It was the first suit designed for automatic deployment and assembly, and possessed extensive flight and weapons upgrades. It was notably used during the Battle of New York.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784392-e9e1c463-74bf-4ef6-abd5-ace89b2b6e49.png",
+        "shippingCost": 10000
+    },
+    {
+        "key": "8",
+        "name": "Mark VIII",
+        "price": 930000,
+        "made": 2017,
+        "description": "The Mark VIII (Mark 8), is a Fully Loaded Suit Upgrade, and was the eighth suit created and built by Tony Stark, to surpass the Mark VII, sometime after the events of The Avengers.",
+        "img": "https://user-images.githubusercontent.com/77241744/134784842-029f6304-d7b2-4be7-8ed9-7efcbd34a42c.png",
+        "shippingCost": 19999.45
+    }
+    
+]

@@ -1,0 +1,7 @@
+.suits-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.suitslist{
+    border-right: 2px solid black;
+}

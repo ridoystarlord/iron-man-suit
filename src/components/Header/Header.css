@@ -1,0 +1,20 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+}
+.website-name, .balance{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.website-name{
+    padding-top: 10px;
+}
+.balance{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.tagline{
+    text-align: center;
+    color: lightgray;
+    background-color: black;
+}
